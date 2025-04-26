@@ -25,6 +25,9 @@
     $objeknilai = new nilai();
     $objeknilai->setstatus(nilai:49);
     echo $objeknilai->getStatus();
+
+    echo" hello dari repository lokal";
     ?>
+    
 </body>
 </html>
